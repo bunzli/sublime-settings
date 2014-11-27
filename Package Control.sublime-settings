@@ -1,0 +1,29 @@
+{
+installed_packages: [
+"AutoFileName",
+"EditorConfig",
+"Emmet",
+"File History",
+"Git",
+"GitGutter",
+"GitHubinator",
+"HTML5",
+"Jekyll",
+"LESS",
+"MarkdownEditing",
+"Package Control",
+"Project Manager",
+"Puppet",
+"Ruby Slim",
+"Sass",
+"SCSS",
+"SideBarEnhancements",
+"SublimeLinter",
+"SublimeLinter-coffeelint",
+"SublimeLinter-contrib-puppet-lint",
+"SublimeLinter-csslint",
+"SublimeLinter-jshint",
+"SublimeLinter-ruby",
+"Theme - Cobalt2"
+]
+}
